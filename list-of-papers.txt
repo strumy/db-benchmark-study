@@ -1,0 +1,22 @@
+1. Performance of the relational and non-relational databases
+Url: https://kth.diva-portal.org/smash/get/diva2:1772625/FULLTEXT01.pdf
+Publication Page: https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1772625&dswid=629
+
+2. Performance analysis of NoSQL and relational databases with MongoDB and MySQL
+Publication: https://www.sciencedirect.com/science/article/abs/pii/S2214785320324159
+
+3. A Comparative Study of Relational and Non-Relational Database Models in a Web- Based Application
+Url: https://pdfs.semanticscholar.org/bcf3/391e611f790b687afd649c77996f0153ef1c.pdf
+Publication: https://www.semanticscholar.org/paper/A-Comparative-Study-of-Relational-and-Database-in-a-Gyorodi-Gyorodi/bcf3391e611f790b687afd649c77996f0153ef1c
+
+4. A comparative study: MongoDB vs. MySQL
+Publication: https://www.researchgate.net/publication/278302676_A_Comparative_Study_MongoDB_vs_MySQL
+
+5. Comparison of query performance in relational a non-relation database
+Publication: https://www.sciencedirect.com/science/article/pii/S2352146519301887
+
+6. Performance analysis of working with databases with Spring and Symfony
+Url: https://ph.pollub.pl/index.php/jcsi/article/view/3086/3102
+
+7. Multi-Platform Performance Analysis for CRUD Operations in Relational Databases from Java Programs using Spring Data JPA
+Publication: https://ieeexplore.ieee.org/abstract/document/10108212
